@@ -2,6 +2,4 @@
 
 Widget Container, Text, Center.
 
-## Hasil
-
 ![screenshoot](screenshoot.png)
